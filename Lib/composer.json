@@ -1,0 +1,19 @@
+{
+    "name": "api/login",
+    "description": "sistema de login",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../Classes/",
+            "Models\\": "../models/",
+            "Traits\\": "../Traits/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eduardo Leite",
+            "email": "edusoares1992@gmail.com"
+        }
+    ],
+    "require": {}
+}
